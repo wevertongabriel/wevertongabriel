@@ -4,5 +4,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertongabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div>
-   <img src="https://raw.githubusercontent.com/"/>
+   <img src="https://raw.githubusercontent.com/nodejs-original.svg"/>
   </div>
