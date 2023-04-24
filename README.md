@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wevertongabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertongabriel&layout=compact&langs_count=7&theme=dark"/>
 </div align="center">
-  <div style="display: inline_block; ali">
+  <div style="display: inline_block; align=center">
    <img align="center" alt="Weverton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
     <img align="center" alt="Weverton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
     <img align="center" alt="Weverton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
@@ -16,7 +16,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/automd.yt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/jWrS9D8K" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wevertongabrieldonascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
