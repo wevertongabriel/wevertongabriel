@@ -12,6 +12,8 @@
     <img align="center" alt="Weverton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   </div>
   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wevertongabriel&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   ##
  
 <div> 
