@@ -2,6 +2,7 @@
   <a href="https://github.com/wevertongabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wevertongabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertongabriel&layout=compact&langs_count=7&theme=dark"/>
+     ##
 </div align="center">
   <div style="display: inline_block; align=center">
    <img align="center" alt="Weverton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
@@ -11,6 +12,8 @@
     <img align="center" alt="Weverton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
     <img align="center" alt="Weverton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   </div>
+  
+   ##
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wevertongabriel&bg_color=080808&color=ffffff&line=9900ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
